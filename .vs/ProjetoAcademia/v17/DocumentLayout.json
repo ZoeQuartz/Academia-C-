@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\dal\\planodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\dal\\planodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\ui\\frmplanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\ui\\frmplanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\ui\\frmplanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\ui\\frmplanos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\bll\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\bll\\plano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|d:\\modulo 2\\quinta - dsi - cesar e willian\\projetoacademia\\projetoacademia\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7BE4CAD-1914-4DD7-8265-57A408FFF6B1}|ProjetoAcademia\\ProjetoAcademia.csproj|solutionrelative:projetoacademia\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPlanos.cs",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "RelativeToolTip": "ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:44:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPlanos.cs [Design]",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\UI\\FrmPlanos.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\FrmPlanos.cs [Design]",
+              "RelativeToolTip": "ProjetoAcademia\\UI\\FrmPlanos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T00:43:59.075Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanoDAL.cs",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\DAL\\PlanoDAL.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\DAL\\PlanoDAL.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\DAL\\PlanoDAL.cs",
+              "RelativeToolTip": "ProjetoAcademia\\DAL\\PlanoDAL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T23:05:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\DAL\\Conexao.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\DAL\\Conexao.cs",
+              "RelativeToolTip": "ProjetoAcademia\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:46:26.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "plano.cs",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\BLL\\plano.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\BLL\\plano.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\BLL\\plano.cs",
+              "RelativeToolTip": "ProjetoAcademia\\BLL\\plano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:16:20.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\UI\\Form1.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\Form1.cs",
+              "RelativeToolTip": "ProjetoAcademia\\UI\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:24:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetoAcademia\\UI\\Form1.cs",
+              "ToolTip": "D:\\Modulo 2\\Quinta - DSI - Cesar e Willian\\ProjetoAcademia\\ProjetoAcademia\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetoAcademia\\UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T01:24:19.259Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
